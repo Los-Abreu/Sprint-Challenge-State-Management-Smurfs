@@ -2,11 +2,21 @@
   text-align: center;
 }
 
+html {
+  background-color: #12CAD6;
+}
+
+.Welcome{
+  text-shadow: 2px 2px 0px #e4f9ff, 4px 4px 0px #e4f9ff;
+  font-style: italic;
+}
+
+
 .smurf-card {
 
-  border: 2px solid lightcoral;
-  background-color: aqua;
-  border-radius: 10;
+  border: 2px solid #fa163f;
+  background-color: #0FABBC;
+  border-radius: 10px;
   width: 500px;
   margin-top: 5%;
   margin-left: 35%;
